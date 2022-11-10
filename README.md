@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wahabg
 - 👀 I’m interested in quantum computing, physics simulation and data science
 - 🌱 I’m currently learning data science methods, matplotlib and monte carlo method
-- 💞️ I’m looking to collaborate on physics simulation 
+- 💞️ I’m looking to collaborate on machine learning projects.
 
 <!---
 Wahabg/Wahabg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
